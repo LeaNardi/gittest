@@ -3,3 +3,5 @@ A new line
 modifying the file in a new branch
 modifying the file in a new branch again
 Adding a line in branch secondary
+Adding lines in main branch
+These lines are added while working in branch for rebase
